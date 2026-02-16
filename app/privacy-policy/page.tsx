@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Privacy Policy | Movie Website",
-  description: "Privacy policy of Movie website",
+  title: "Privacy Policy | MovieDubbed",
+  description: "Privacy policy of MovieDubbed",
 };
 
 export default function PrivacyPolicy() {
@@ -9,8 +9,8 @@ export default function PrivacyPolicy() {
       <h1 className="text-3xl font-bold mb-6">Privacy Policy</h1>
 
       <p className="mb-4">
-        At Movie Website , we respect your privacy and are committed to
-        protecting your personal information.
+        At MovieDubbed , we respect your privacy and are committed to protecting
+        your personal information.
       </p>
 
       <h2 className="text-xl font-semibold mt-6 mb-2">

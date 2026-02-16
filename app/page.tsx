@@ -6,8 +6,8 @@ import Footer from "./components/Footer";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "My Vlog Website | Travel & Daily Vlogs",
-  description: "Watch travel, lifestyle and daily vlogs on my website",
+  title: "MovieDubbed | latest movies",
+  description: "MovieDubbed provide details of latest movies",
 };
 
 export default function Homepage() {

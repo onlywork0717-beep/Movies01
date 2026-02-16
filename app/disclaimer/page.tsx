@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Disclaimer | VlogCluster",
-  description: "Disclaimer of VlogCluster website",
+  title: "Disclaimer | MovieDubbed",
+  description: "Disclaimer of MovieDubbed website",
 };
 
 export default function Disclaimer() {
@@ -9,7 +9,7 @@ export default function Disclaimer() {
       <h1 className="text-3xl font-bold mb-6">Disclaimer</h1>
 
       <p className="mb-4">
-        All information provided on VlogCluster is published in good faith and
+        All information provided on MovieDubbed is published in good faith and
         for general information purposes only.
       </p>
 

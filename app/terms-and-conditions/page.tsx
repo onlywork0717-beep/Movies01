@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Terms and Conditions | VlogCluster",
-  description: "Terms and conditions of VlogCluster website",
+  title: "Terms and Conditions | MovieDubbed",
+  description: "Terms and conditions of MovieDubbed website",
 };
 
 export default function TermsConditions() {
@@ -9,7 +9,7 @@ export default function TermsConditions() {
       <h1 className="text-3xl font-bold mb-6">Terms and Conditions</h1>
 
       <p className="mb-4">
-        By accessing and using VlogCluster, you accept and agree to be bound by
+        By accessing and using MovieDubbed, you accept and agree to be bound by
         these terms and conditions.
       </p>
 
